@@ -1,0 +1,5002 @@
+[
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Cruel Summer",
+        "popularity": 89,
+        "tempo": 169.994,
+        "key": 9,
+        "energy": 0.702,
+        "danceability": 0.552
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Fortnight (feat. Post Malone)",
+        "popularity": 84,
+        "tempo": 192.004,
+        "key": 11,
+        "energy": 0.386,
+        "danceability": 0.504
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "I Can Do It With a Broken Heart",
+        "popularity": 83,
+        "tempo": 129.994,
+        "key": 0,
+        "energy": 0.751,
+        "danceability": 0.701
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "august",
+        "popularity": 83,
+        "tempo": 89.937,
+        "key": 5,
+        "energy": 0.623,
+        "danceability": 0.532
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Lover",
+        "popularity": 84,
+        "tempo": 68.534,
+        "key": 7,
+        "energy": 0.543,
+        "danceability": 0.359
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "cardigan",
+        "popularity": 83,
+        "tempo": 130.033,
+        "key": 0,
+        "energy": 0.581,
+        "danceability": 0.613
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Anti-Hero",
+        "popularity": 81,
+        "tempo": 96.888,
+        "key": 4,
+        "energy": 0.648,
+        "danceability": 0.633
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Don\u2019t Blame Me",
+        "popularity": 82,
+        "tempo": 135.917,
+        "key": 9,
+        "energy": 0.534,
+        "danceability": 0.615
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Guilty as Sin?",
+        "popularity": 77,
+        "tempo": 94.95,
+        "key": 2,
+        "energy": 0.428,
+        "danceability": 0.626
+    },
+    {
+        "artist_name": "Taylor Swift",
+        "genre": "pop",
+        "track_name": "Blank Space",
+        "popularity": 69,
+        "tempo": 96.006,
+        "key": 5,
+        "energy": 0.678,
+        "danceability": 0.753
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "One Dance",
+        "popularity": 85,
+        "tempo": 103.967,
+        "key": 1,
+        "energy": 0.625,
+        "danceability": 0.792
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "WAIT FOR U (feat. Drake & Tems)",
+        "popularity": 81,
+        "tempo": 83.389,
+        "key": 1,
+        "energy": 0.642,
+        "danceability": 0.463
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "God's Plan",
+        "popularity": 81,
+        "tempo": 77.169,
+        "key": 7,
+        "energy": 0.449,
+        "danceability": 0.754
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Passionfruit",
+        "popularity": 80,
+        "tempo": 111.98,
+        "key": 11,
+        "energy": 0.463,
+        "danceability": 0.809
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "popularity": 79,
+        "tempo": 165.921,
+        "key": 0,
+        "energy": 0.673,
+        "danceability": 0.529
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Circadian Rhythm",
+        "popularity": 79,
+        "tempo": 146.007,
+        "key": 1,
+        "energy": 0.574,
+        "danceability": 0.694
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+        "popularity": 78,
+        "tempo": 146.009,
+        "key": 2,
+        "energy": 0.729,
+        "danceability": 0.636
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "No Face",
+        "popularity": 78,
+        "tempo": 125.951,
+        "key": 10,
+        "energy": 0.69,
+        "danceability": 0.853
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Fair Trade (with Travis Scott)",
+        "popularity": 78,
+        "tempo": 167.937,
+        "key": 1,
+        "energy": 0.465,
+        "danceability": 0.666
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "pop",
+        "track_name": "Teenage Fever",
+        "popularity": 77,
+        "tempo": 97.04,
+        "key": 8,
+        "energy": 0.283,
+        "danceability": 0.766
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Timeless (with Playboi Carti)",
+        "popularity": 92,
+        "tempo": 119.973,
+        "key": 11,
+        "energy": 0.722,
+        "danceability": 0.769
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+        "popularity": 89,
+        "tempo": 84.828,
+        "key": 8,
+        "energy": 0.64,
+        "danceability": 0.264
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Blinding Lights",
+        "popularity": 87,
+        "tempo": 171.001,
+        "key": 1,
+        "energy": 0.73,
+        "danceability": 0.513
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Starboy",
+        "popularity": 87,
+        "tempo": 186.003,
+        "key": 7,
+        "energy": 0.587,
+        "danceability": 0.679
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Die For You",
+        "popularity": 84,
+        "tempo": 133.629,
+        "key": 1,
+        "energy": 0.525,
+        "danceability": 0.586
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "S\u00e3o Paulo (feat. Anitta)",
+        "popularity": 85,
+        "tempo": 127.347,
+        "key": 5,
+        "energy": 0.659,
+        "danceability": 0.574
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Dancing In The Flames",
+        "popularity": 84,
+        "tempo": 116.875,
+        "key": 1,
+        "energy": 0.73,
+        "danceability": 0.552
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Save Your Tears",
+        "popularity": 84,
+        "tempo": 118.049,
+        "key": 0,
+        "energy": 0.825,
+        "danceability": 0.679
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "The Hills",
+        "popularity": 84,
+        "tempo": 113.003,
+        "key": 0,
+        "energy": 0.564,
+        "danceability": 0.585
+    },
+    {
+        "artist_name": "The Weeknd",
+        "genre": "pop",
+        "track_name": "Stargirl Interlude",
+        "popularity": 82,
+        "tempo": 89.965,
+        "key": 5,
+        "energy": 0.47,
+        "danceability": 0.715
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "BIRDS OF A FEATHER",
+        "popularity": 97,
+        "tempo": 104.978,
+        "key": 2,
+        "energy": 0.507,
+        "danceability": 0.747
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "WILDFLOWER",
+        "popularity": 92,
+        "tempo": 148.101,
+        "key": 6,
+        "energy": 0.247,
+        "danceability": 0.467
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "Guess featuring billie eilish",
+        "popularity": 80,
+        "tempo": 130.034,
+        "key": 0,
+        "energy": 0.713,
+        "danceability": 0.78
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "CHIHIRO",
+        "popularity": 88,
+        "tempo": 110.015,
+        "key": 7,
+        "energy": 0.425,
+        "danceability": 0.7
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "LUNCH",
+        "popularity": 86,
+        "tempo": 124.987,
+        "key": 11,
+        "energy": 0.4,
+        "danceability": 0.893
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "lovely (with Khalid)",
+        "popularity": 86,
+        "tempo": 115.284,
+        "key": 4,
+        "energy": 0.296,
+        "danceability": 0.351
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "popularity": 85,
+        "tempo": 79.449,
+        "key": 0,
+        "energy": 0.084,
+        "danceability": 0.391
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "ocean eyes",
+        "popularity": 72,
+        "tempo": 144.828,
+        "key": 4,
+        "energy": 0.37,
+        "danceability": 0.475
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "when the party's over",
+        "popularity": 83,
+        "tempo": 82.642,
+        "key": 4,
+        "energy": 0.111,
+        "danceability": 0.367
+    },
+    {
+        "artist_name": "Billie Eilish",
+        "genre": "pop",
+        "track_name": "BLUE",
+        "popularity": 82,
+        "tempo": 142.01,
+        "key": 7,
+        "energy": 0.337,
+        "danceability": 0.349
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Taste",
+        "popularity": 94,
+        "tempo": 112.964,
+        "key": 3,
+        "energy": 0.907,
+        "danceability": 0.674
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Espresso",
+        "popularity": 88,
+        "tempo": 103.963,
+        "key": 0,
+        "energy": 0.776,
+        "danceability": 0.699
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Please Please Please",
+        "popularity": 87,
+        "tempo": 107.015,
+        "key": 9,
+        "energy": 0.586,
+        "danceability": 0.675
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Bed Chem",
+        "popularity": 91,
+        "tempo": 94.99,
+        "key": 11,
+        "energy": 0.727,
+        "danceability": 0.739
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Juno",
+        "popularity": 87,
+        "tempo": 130.504,
+        "key": 5,
+        "energy": 0.725,
+        "danceability": 0.633
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Good Graces",
+        "popularity": 86,
+        "tempo": 126.012,
+        "key": 5,
+        "energy": 0.759,
+        "danceability": 0.758
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Nonsense",
+        "popularity": 86,
+        "tempo": 138.992,
+        "key": 8,
+        "energy": 0.697,
+        "danceability": 0.74
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Feather",
+        "popularity": 85,
+        "tempo": 123.508,
+        "key": 6,
+        "energy": 0.694,
+        "danceability": 0.791
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Coincidence",
+        "popularity": 83,
+        "tempo": 77.862,
+        "key": 9,
+        "energy": 0.815,
+        "danceability": 0.418
+    },
+    {
+        "artist_name": "Sabrina Carpenter",
+        "genre": "pop",
+        "track_name": "Sharpest Tool",
+        "popularity": 81,
+        "tempo": 91.003,
+        "key": 4,
+        "energy": 0.63,
+        "danceability": 0.716
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Die With A Smile",
+        "popularity": 100,
+        "tempo": 157.969,
+        "key": 6,
+        "energy": 0.592,
+        "danceability": 0.521
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "APT.",
+        "popularity": 97,
+        "tempo": 149.027,
+        "key": 0,
+        "energy": 0.783,
+        "danceability": 0.777
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Locked out of Heaven",
+        "popularity": 88,
+        "tempo": 143.994,
+        "key": 5,
+        "energy": 0.698,
+        "danceability": 0.726
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Just the Way You Are",
+        "popularity": 85,
+        "tempo": 109.021,
+        "key": 5,
+        "energy": 0.841,
+        "danceability": 0.635
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "That's What I Like",
+        "popularity": 87,
+        "tempo": 134.066,
+        "key": 1,
+        "energy": 0.56,
+        "danceability": 0.853
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "When I Was Your Man",
+        "popularity": 87,
+        "tempo": 72.795,
+        "key": 0,
+        "energy": 0.28,
+        "danceability": 0.612
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "It Will Rain",
+        "popularity": 71,
+        "tempo": 150.017,
+        "key": 2,
+        "energy": 0.835,
+        "danceability": 0.576
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Talking to the Moon",
+        "popularity": 81,
+        "tempo": 145.867,
+        "key": 1,
+        "energy": 0.59,
+        "danceability": 0.498
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Grenade",
+        "popularity": 77,
+        "tempo": 110.444,
+        "key": 2,
+        "energy": 0.558,
+        "danceability": 0.704
+    },
+    {
+        "artist_name": "Bruno Mars",
+        "genre": "pop",
+        "track_name": "Treasure",
+        "popularity": 82,
+        "tempo": 116.017,
+        "key": 5,
+        "energy": 0.692,
+        "danceability": 0.874
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "I Had Some Help (Feat. Morgan Wallen)",
+        "popularity": 84,
+        "tempo": 128.017,
+        "key": 0,
+        "energy": 0.874,
+        "danceability": 0.644
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Fortnight (feat. Post Malone)",
+        "popularity": 84,
+        "tempo": 192.004,
+        "key": 11,
+        "energy": 0.386,
+        "danceability": 0.504
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "popularity": 82,
+        "tempo": 89.96,
+        "key": 2,
+        "energy": 0.522,
+        "danceability": 0.755
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Circles",
+        "popularity": 83,
+        "tempo": 120.042,
+        "key": 0,
+        "energy": 0.763,
+        "danceability": 0.695
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Guy For That (Feat. Luke Combs)",
+        "popularity": 78,
+        "tempo": 119.986,
+        "key": 8,
+        "energy": 0.911,
+        "danceability": 0.611
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "rockstar (feat. 21 Savage)",
+        "popularity": 80,
+        "tempo": 159.798,
+        "key": 5,
+        "energy": 0.52,
+        "danceability": 0.585
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Dial Drunk (with Post Malone)",
+        "popularity": 79,
+        "tempo": 112.108,
+        "key": 8,
+        "energy": 0.606,
+        "danceability": 0.669
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Pour Me A Drink (Feat. Blake Shelton)",
+        "popularity": 75,
+        "tempo": 119.033,
+        "key": 11,
+        "energy": 0.909,
+        "danceability": 0.582
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Congratulations",
+        "popularity": 78,
+        "tempo": 123.146,
+        "key": 6,
+        "energy": 0.804,
+        "danceability": 0.63
+    },
+    {
+        "artist_name": "Post Malone",
+        "genre": "pop",
+        "track_name": "Better Now",
+        "popularity": 77,
+        "tempo": 145.07,
+        "key": 10,
+        "energy": 0.578,
+        "danceability": 0.674
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Kill Bill",
+        "popularity": 86,
+        "tempo": 88.98,
+        "key": 8,
+        "energy": 0.735,
+        "danceability": 0.644
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Snooze",
+        "popularity": 85,
+        "tempo": 143.008,
+        "key": 5,
+        "energy": 0.551,
+        "danceability": 0.559
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "All The Stars (with SZA)",
+        "popularity": 85,
+        "tempo": 96.782,
+        "key": 8,
+        "energy": 0.633,
+        "danceability": 0.695
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Saturn",
+        "popularity": 85,
+        "tempo": 177.937,
+        "key": 1,
+        "energy": 0.619,
+        "danceability": 0.411
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Nobody Gets Me",
+        "popularity": 84,
+        "tempo": 99.796,
+        "key": 7,
+        "energy": 0.284,
+        "danceability": 0.358
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Open Arms (feat. Travis Scott)",
+        "popularity": 80,
+        "tempo": 78.259,
+        "key": 9,
+        "energy": 0.586,
+        "danceability": 0.434
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Kiss Me More (feat. SZA)",
+        "popularity": 79,
+        "tempo": 110.97,
+        "key": 8,
+        "energy": 0.705,
+        "danceability": 0.764
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Good Days",
+        "popularity": 79,
+        "tempo": 121.07,
+        "key": 1,
+        "energy": 0.651,
+        "danceability": 0.461
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Broken Clocks",
+        "popularity": 80,
+        "tempo": 112.912,
+        "key": 6,
+        "energy": 0.684,
+        "danceability": 0.692
+    },
+    {
+        "artist_name": "SZA",
+        "genre": "pop",
+        "track_name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+        "popularity": 78,
+        "tempo": 146.009,
+        "key": 2,
+        "energy": 0.729,
+        "danceability": 0.636
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "popularity": 87,
+        "tempo": 80.09,
+        "key": 1,
+        "energy": 0.812,
+        "danceability": 0.505
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Love Me",
+        "popularity": 82,
+        "tempo": 124.926,
+        "key": 11,
+        "energy": 0.634,
+        "danceability": 0.67
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Lollipop",
+        "popularity": 64,
+        "tempo": 148.074,
+        "key": 0,
+        "energy": 0.43,
+        "danceability": 0.833
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "popularity": 73,
+        "tempo": 169.021,
+        "key": 9,
+        "energy": 0.786,
+        "danceability": 0.502
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Forever",
+        "popularity": 73,
+        "tempo": 104.02,
+        "key": 5,
+        "energy": 0.906,
+        "danceability": 0.457
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Mirror",
+        "popularity": 73,
+        "tempo": 74.267,
+        "key": 5,
+        "energy": 0.622,
+        "danceability": 0.328
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "A Milli",
+        "popularity": 64,
+        "tempo": 151.812,
+        "key": 6,
+        "energy": 0.688,
+        "danceability": 0.678
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Mrs. Officer",
+        "popularity": 62,
+        "tempo": 111.982,
+        "key": 6,
+        "energy": 0.556,
+        "danceability": 0.916
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
+        "popularity": 70,
+        "tempo": 145.819,
+        "key": 11,
+        "energy": 0.5,
+        "danceability": 0.591
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "pop",
+        "track_name": "6 Foot 7 Foot",
+        "popularity": 69,
+        "tempo": 79.119,
+        "key": 2,
+        "energy": 0.752,
+        "danceability": 0.364
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Good Luck, Babe!",
+        "popularity": 94,
+        "tempo": 116.712,
+        "key": 11,
+        "energy": 0.582,
+        "danceability": 0.7
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "HOT TO GO!",
+        "popularity": 89,
+        "tempo": 139.982,
+        "key": 6,
+        "energy": 0.757,
+        "danceability": 0.742
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Pink Pony Club",
+        "popularity": 86,
+        "tempo": 106.719,
+        "key": 6,
+        "energy": 0.65,
+        "danceability": 0.61
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Red Wine Supernova",
+        "popularity": 84,
+        "tempo": 124.041,
+        "key": 9,
+        "energy": 0.82,
+        "danceability": 0.657
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Casual",
+        "popularity": 84,
+        "tempo": 131.008,
+        "key": 1,
+        "energy": 0.411,
+        "danceability": 0.508
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Femininomenon",
+        "popularity": 81,
+        "tempo": 124.949,
+        "key": 0,
+        "energy": 0.758,
+        "danceability": 0.609
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "My Kink Is Karma",
+        "popularity": 81,
+        "tempo": 86.727,
+        "key": 2,
+        "energy": 0.599,
+        "danceability": 0.555
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Super Graphic Ultra Modern Girl",
+        "popularity": 78,
+        "tempo": 125.891,
+        "key": 1,
+        "energy": 0.905,
+        "danceability": 0.646
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "Naked In Manhattan",
+        "popularity": 77,
+        "tempo": 118.01,
+        "key": 1,
+        "energy": 0.704,
+        "danceability": 0.771
+    },
+    {
+        "artist_name": "Chappell Roan",
+        "genre": "pop",
+        "track_name": "After Midnight",
+        "popularity": 77,
+        "tempo": 110.058,
+        "key": 0,
+        "energy": 0.891,
+        "danceability": 0.708
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Touch me",
+        "popularity": 23,
+        "tempo": 123.992,
+        "key": 6,
+        "energy": 0.904,
+        "danceability": 0.583
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Revive",
+        "popularity": 16,
+        "tempo": 127.015,
+        "key": 1,
+        "energy": 0.924,
+        "danceability": 0.471
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Star Line (GRHN Mix)",
+        "popularity": 16,
+        "tempo": 128.01,
+        "key": 0,
+        "energy": 0.896,
+        "danceability": 0.579
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Curiosity",
+        "popularity": 15,
+        "tempo": 120.959,
+        "key": 9,
+        "energy": 0.904,
+        "danceability": 0.533
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "make.believe",
+        "popularity": 14,
+        "tempo": 128.008,
+        "key": 7,
+        "energy": 0.848,
+        "danceability": 0.474
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Touch me (kz Mix)",
+        "popularity": 14,
+        "tempo": 130.036,
+        "key": 1,
+        "energy": 0.925,
+        "danceability": 0.594
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Reaching for the stars",
+        "popularity": 13,
+        "tempo": 125.978,
+        "key": 1,
+        "energy": 0.919,
+        "danceability": 0.511
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Hikari no tabi",
+        "popularity": 11,
+        "tempo": 129.919,
+        "key": 8,
+        "energy": 0.917,
+        "danceability": 0.571
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Crystalfall",
+        "popularity": 11,
+        "tempo": 127.936,
+        "key": 4,
+        "energy": 0.76,
+        "danceability": 0.582
+    },
+    {
+        "artist_name": "Genki Rockets",
+        "genre": "rock",
+        "track_name": "Maker",
+        "popularity": 10,
+        "tempo": 156.028,
+        "key": 7,
+        "energy": 0.94,
+        "danceability": 0.445
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Heart",
+        "popularity": 29,
+        "tempo": 103.675,
+        "key": 11,
+        "energy": 0.4,
+        "danceability": 0.554
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Wasted Days and Wasted Nights",
+        "popularity": 29,
+        "tempo": 117.082,
+        "key": 7,
+        "energy": 0.558,
+        "danceability": 0.622
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Cry to Me",
+        "popularity": 16,
+        "tempo": 176.627,
+        "key": 10,
+        "energy": 0.35,
+        "danceability": 0.431
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Bye Bye Love (feat. Matt Hurter)",
+        "popularity": 13,
+        "tempo": 169.736,
+        "key": 7,
+        "energy": 0.561,
+        "danceability": 0.607
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Honkytonk Angels (feat. Joanna Field)",
+        "popularity": 13,
+        "tempo": 57.247,
+        "key": 9,
+        "energy": 0.504,
+        "danceability": 0.677
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Heart",
+        "popularity": 1,
+        "tempo": 96.984,
+        "key": 11,
+        "energy": 0.487,
+        "danceability": 0.677
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Shame on Me",
+        "popularity": 12,
+        "tempo": 84.189,
+        "key": 1,
+        "energy": 0.531,
+        "danceability": 0.358
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "I Wouldn't Trade You for the World (feat. Wessel Germeshuizen and Clive Bruce)",
+        "popularity": 7,
+        "tempo": 239.227,
+        "key": 0,
+        "energy": 0.395,
+        "danceability": 0.306
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Crystal Chandeliers (feat. Vangie Coker)",
+        "popularity": 7,
+        "tempo": 120.226,
+        "key": 7,
+        "energy": 0.584,
+        "danceability": 0.799
+    },
+    {
+        "artist_name": "Gene Rockwell",
+        "genre": "rock",
+        "track_name": "Rosie",
+        "popularity": 4,
+        "tempo": 93.3,
+        "key": 7,
+        "energy": 0.567,
+        "danceability": 0.604
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "The Emptiness Machine",
+        "popularity": 90,
+        "tempo": 184.115,
+        "key": 7,
+        "energy": 0.872,
+        "danceability": 0.466
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "In the End",
+        "popularity": 87,
+        "tempo": 105.143,
+        "key": 3,
+        "energy": 0.864,
+        "danceability": 0.556
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Numb",
+        "popularity": 87,
+        "tempo": 110.072,
+        "key": 6,
+        "energy": 0.87,
+        "danceability": 0.488
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Heavy Is the Crown",
+        "popularity": 87,
+        "tempo": 127.939,
+        "key": 4,
+        "energy": 0.928,
+        "danceability": 0.571
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Faint",
+        "popularity": 84,
+        "tempo": 135.12,
+        "key": 4,
+        "energy": 0.98,
+        "danceability": 0.554
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "One Step Closer",
+        "popularity": 82,
+        "tempo": 95.136,
+        "key": 9,
+        "energy": 0.969,
+        "danceability": 0.492
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "What I've Done",
+        "popularity": 80,
+        "tempo": 120.092,
+        "key": 5,
+        "energy": 0.935,
+        "danceability": 0.627
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Bleed It Out",
+        "popularity": 80,
+        "tempo": 140.119,
+        "key": 11,
+        "energy": 0.969,
+        "danceability": 0.541
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Somewhere I Belong",
+        "popularity": 70,
+        "tempo": 162.041,
+        "key": 1,
+        "energy": 0.951,
+        "danceability": 0.451
+    },
+    {
+        "artist_name": "Linkin Park",
+        "genre": "rock",
+        "track_name": "Crawling",
+        "popularity": 79,
+        "tempo": 105.076,
+        "key": 4,
+        "energy": 0.702,
+        "danceability": 0.58
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Too Sweet",
+        "popularity": 78,
+        "tempo": 117.038,
+        "key": 10,
+        "energy": 0.62,
+        "danceability": 0.741
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Take Me to Church",
+        "popularity": 79,
+        "tempo": 128.945,
+        "key": 4,
+        "energy": 0.664,
+        "danceability": 0.566
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Work Song",
+        "popularity": 77,
+        "tempo": 121.412,
+        "key": 10,
+        "energy": 0.363,
+        "danceability": 0.531
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Northern Attitude (with Hozier)",
+        "popularity": 61,
+        "tempo": 121.861,
+        "key": 3,
+        "energy": 0.644,
+        "danceability": 0.488
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Someone New",
+        "popularity": 74,
+        "tempo": 183.791,
+        "key": 7,
+        "energy": 0.533,
+        "danceability": 0.443
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Would That I",
+        "popularity": 74,
+        "tempo": 130.694,
+        "key": 5,
+        "energy": 0.526,
+        "danceability": 0.521
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Almost (Sweet Music)",
+        "popularity": 74,
+        "tempo": 90.036,
+        "key": 7,
+        "energy": 0.687,
+        "danceability": 0.523
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "From Eden",
+        "popularity": 70,
+        "tempo": 142.255,
+        "key": 0,
+        "energy": 0.673,
+        "danceability": 0.399
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Like Real People Do",
+        "popularity": 71,
+        "tempo": 140.01,
+        "key": 7,
+        "energy": 0.179,
+        "danceability": 0.539
+    },
+    {
+        "artist_name": "Hozier",
+        "genre": "rock",
+        "track_name": "Jackie and Wilson",
+        "popularity": 70,
+        "tempo": 82.142,
+        "key": 6,
+        "energy": 0.727,
+        "danceability": 0.555
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Believer",
+        "popularity": 85,
+        "tempo": 124.949,
+        "key": 10,
+        "energy": 0.78,
+        "danceability": 0.776
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Demons",
+        "popularity": 72,
+        "tempo": 89.929,
+        "key": 3,
+        "energy": 0.71,
+        "danceability": 0.5
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Thunder",
+        "popularity": 84,
+        "tempo": 167.997,
+        "key": 0,
+        "energy": 0.822,
+        "danceability": 0.604
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Bones",
+        "popularity": 81,
+        "tempo": 114.061,
+        "key": 5,
+        "energy": 0.75,
+        "danceability": 0.772
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Enemy (with JID) - from the series Arcane League of Legends",
+        "popularity": 79,
+        "tempo": 77.011,
+        "key": 11,
+        "energy": 0.783,
+        "danceability": 0.728
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Radioactive",
+        "popularity": 71,
+        "tempo": 136.239,
+        "key": 9,
+        "energy": 0.784,
+        "danceability": 0.448
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Whatever It Takes",
+        "popularity": 81,
+        "tempo": 134.948,
+        "key": 10,
+        "energy": 0.655,
+        "danceability": 0.672
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Natural",
+        "popularity": 79,
+        "tempo": 99.994,
+        "key": 2,
+        "energy": 0.611,
+        "danceability": 0.704
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "Bad Liar",
+        "popularity": 78,
+        "tempo": 88.693,
+        "key": 3,
+        "energy": 0.637,
+        "danceability": 0.307
+    },
+    {
+        "artist_name": "Imagine Dragons",
+        "genre": "rock",
+        "track_name": "On Top Of The World",
+        "popularity": 67,
+        "tempo": 100.043,
+        "key": 0,
+        "energy": 0.926,
+        "danceability": 0.635
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "I Wanna Be Yours",
+        "popularity": 90,
+        "tempo": 67.528,
+        "key": 0,
+        "energy": 0.417,
+        "danceability": 0.464
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "505",
+        "popularity": 79,
+        "tempo": 140.267,
+        "key": 0,
+        "energy": 0.852,
+        "danceability": 0.52
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Why'd You Only Call Me When You're High?",
+        "popularity": 84,
+        "tempo": 92.004,
+        "key": 2,
+        "energy": 0.631,
+        "danceability": 0.691
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Do I Wanna Know?",
+        "popularity": 84,
+        "tempo": 85.03,
+        "key": 5,
+        "energy": 0.532,
+        "danceability": 0.548
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "No. 1 Party Anthem",
+        "popularity": 81,
+        "tempo": 115.013,
+        "key": 0,
+        "energy": 0.698,
+        "danceability": 0.505
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "R U Mine?",
+        "popularity": 79,
+        "tempo": 97.094,
+        "key": 6,
+        "energy": 0.758,
+        "danceability": 0.288
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Fluorescent Adolescent",
+        "popularity": 69,
+        "tempo": 112.115,
+        "key": 6,
+        "energy": 0.813,
+        "danceability": 0.646
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Snap Out Of It",
+        "popularity": 76,
+        "tempo": 130.014,
+        "key": 5,
+        "energy": 0.638,
+        "danceability": 0.728
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Arabella",
+        "popularity": 74,
+        "tempo": 179.949,
+        "key": 2,
+        "energy": 0.558,
+        "danceability": 0.579
+    },
+    {
+        "artist_name": "Arctic Monkeys",
+        "genre": "rock",
+        "track_name": "Knee Socks",
+        "popularity": 73,
+        "tempo": 97.975,
+        "key": 11,
+        "energy": 0.542,
+        "danceability": 0.665
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Here Comes The Sun - Remastered 2009",
+        "popularity": 82,
+        "tempo": 129.177,
+        "key": 9,
+        "energy": 0.54,
+        "danceability": 0.557
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Let It Be - Remastered 2009",
+        "popularity": 77,
+        "tempo": 143.462,
+        "key": 0,
+        "energy": 0.403,
+        "danceability": 0.443
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Blackbird - Remastered 2009",
+        "popularity": 76,
+        "tempo": 93.699,
+        "key": 7,
+        "energy": 0.127,
+        "danceability": 0.686
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Yesterday - Remastered 2009",
+        "popularity": 76,
+        "tempo": 96.524,
+        "key": 5,
+        "energy": 0.179,
+        "danceability": 0.332
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "In My Life - Remastered 2009",
+        "popularity": 76,
+        "tempo": 103.239,
+        "key": 9,
+        "energy": 0.435,
+        "danceability": 0.688
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Twist And Shout - Remastered 2009",
+        "popularity": 76,
+        "tempo": 124.631,
+        "key": 2,
+        "energy": 0.849,
+        "danceability": 0.482
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Come Together - Remastered 2009",
+        "popularity": 75,
+        "tempo": 164.775,
+        "key": 9,
+        "energy": 0.376,
+        "danceability": 0.53
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Hey Jude - 2015 Mix",
+        "popularity": 66,
+        "tempo": 147.43,
+        "key": 10,
+        "energy": 0.557,
+        "danceability": 0.378
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "Something - Remastered 2009",
+        "popularity": 72,
+        "tempo": 132.875,
+        "key": 0,
+        "energy": 0.338,
+        "danceability": 0.406
+    },
+    {
+        "artist_name": "The Beatles",
+        "genre": "rock",
+        "track_name": "And I Love Her - Remastered 2009",
+        "popularity": 73,
+        "tempo": 113.312,
+        "key": 1,
+        "energy": 0.331,
+        "danceability": 0.767
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Sweater Weather",
+        "popularity": 90,
+        "tempo": 124.053,
+        "key": 10,
+        "energy": 0.807,
+        "danceability": 0.612
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Daddy Issues",
+        "popularity": 84,
+        "tempo": 85.012,
+        "key": 10,
+        "energy": 0.521,
+        "danceability": 0.588
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Softcore",
+        "popularity": 84,
+        "tempo": 93.986,
+        "key": 9,
+        "energy": 0.568,
+        "danceability": 0.575
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Reflections",
+        "popularity": 83,
+        "tempo": 113.983,
+        "key": 11,
+        "energy": 0.594,
+        "danceability": 0.648
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "You Get Me So High",
+        "popularity": 81,
+        "tempo": 88.036,
+        "key": 7,
+        "energy": 0.881,
+        "danceability": 0.551
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Pretty Boy",
+        "popularity": 74,
+        "tempo": 154.902,
+        "key": 6,
+        "energy": 0.386,
+        "danceability": 0.578
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Afraid",
+        "popularity": 72,
+        "tempo": 83.996,
+        "key": 6,
+        "energy": 0.701,
+        "danceability": 0.464
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Nervous",
+        "popularity": 72,
+        "tempo": 119.837,
+        "key": 0,
+        "energy": 0.614,
+        "danceability": 0.589
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "Cry Baby",
+        "popularity": 72,
+        "tempo": 108.033,
+        "key": 4,
+        "energy": 0.656,
+        "danceability": 0.581
+    },
+    {
+        "artist_name": "The Neighbourhood",
+        "genre": "rock",
+        "track_name": "The Beach",
+        "popularity": 72,
+        "tempo": 135.739,
+        "key": 2,
+        "energy": 0.64,
+        "danceability": 0.245
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Dreams - 2004 Remaster",
+        "popularity": 84,
+        "tempo": 120.151,
+        "key": 0,
+        "energy": 0.492,
+        "danceability": 0.828
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Everywhere - 2017 Remaster",
+        "popularity": 79,
+        "tempo": 114.965,
+        "key": 4,
+        "energy": 0.487,
+        "danceability": 0.73
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "The Chain - 2004 Remaster",
+        "popularity": 80,
+        "tempo": 151.553,
+        "key": 9,
+        "energy": 0.67,
+        "danceability": 0.545
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Go Your Own Way - 2004 Remaster",
+        "popularity": 77,
+        "tempo": 135.448,
+        "key": 5,
+        "energy": 0.947,
+        "danceability": 0.583
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Landslide",
+        "popularity": 77,
+        "tempo": 159.375,
+        "key": 7,
+        "energy": 0.161,
+        "danceability": 0.414
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Rhiannon",
+        "popularity": 74,
+        "tempo": 129.012,
+        "key": 9,
+        "energy": 0.49,
+        "danceability": 0.723
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Little Lies - 2017 Remaster",
+        "popularity": 73,
+        "tempo": 124.825,
+        "key": 2,
+        "energy": 0.649,
+        "danceability": 0.64
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Gypsy",
+        "popularity": 74,
+        "tempo": 130.879,
+        "key": 5,
+        "energy": 0.54,
+        "danceability": 0.622
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Don't Stop - 2004 Remaster",
+        "popularity": 72,
+        "tempo": 118.745,
+        "key": 9,
+        "energy": 0.71,
+        "danceability": 0.671
+    },
+    {
+        "artist_name": "Fleetwood Mac",
+        "genre": "rock",
+        "track_name": "Never Going Back Again - 2004 Remaster",
+        "popularity": 72,
+        "tempo": 176.083,
+        "key": 6,
+        "energy": 0.336,
+        "danceability": 0.654
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Change (In the House of Flies)",
+        "popularity": 77,
+        "tempo": 141.581,
+        "key": 7,
+        "energy": 0.853,
+        "danceability": 0.269
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "My Own Summer (Shove It)",
+        "popularity": 77,
+        "tempo": 71.841,
+        "key": 1,
+        "energy": 0.781,
+        "danceability": 0.443
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Be Quiet and Drive (Far Away)",
+        "popularity": 75,
+        "tempo": 92.615,
+        "key": 1,
+        "energy": 0.965,
+        "danceability": 0.206
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Sextape",
+        "popularity": 75,
+        "tempo": 89.981,
+        "key": 5,
+        "energy": 0.634,
+        "danceability": 0.367
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Cherry Waves",
+        "popularity": 73,
+        "tempo": 124.01,
+        "key": 2,
+        "energy": 0.859,
+        "danceability": 0.47
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+        "popularity": 65,
+        "tempo": 190.747,
+        "key": 2,
+        "energy": 0.843,
+        "danceability": 0.111
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Mascara",
+        "popularity": 71,
+        "tempo": 77.562,
+        "key": 5,
+        "energy": 0.446,
+        "danceability": 0.472
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Rosemary",
+        "popularity": 71,
+        "tempo": 126.628,
+        "key": 5,
+        "energy": 0.613,
+        "danceability": 0.285
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Entombed",
+        "popularity": 69,
+        "tempo": 130.055,
+        "key": 10,
+        "energy": 0.753,
+        "danceability": 0.399
+    },
+    {
+        "artist_name": "Deftones",
+        "genre": "rock",
+        "track_name": "Beware",
+        "popularity": 67,
+        "tempo": 145.156,
+        "key": 8,
+        "energy": 0.714,
+        "danceability": 0.265
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "One Dance",
+        "popularity": 85,
+        "tempo": 103.967,
+        "key": 1,
+        "energy": 0.625,
+        "danceability": 0.792
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "WAIT FOR U (feat. Drake & Tems)",
+        "popularity": 81,
+        "tempo": 83.389,
+        "key": 1,
+        "energy": 0.642,
+        "danceability": 0.463
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "God's Plan",
+        "popularity": 81,
+        "tempo": 77.169,
+        "key": 7,
+        "energy": 0.449,
+        "danceability": 0.754
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Passionfruit",
+        "popularity": 80,
+        "tempo": 111.98,
+        "key": 11,
+        "energy": 0.463,
+        "danceability": 0.809
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "popularity": 79,
+        "tempo": 165.921,
+        "key": 0,
+        "energy": 0.673,
+        "danceability": 0.529
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Circadian Rhythm",
+        "popularity": 79,
+        "tempo": 146.007,
+        "key": 1,
+        "energy": 0.574,
+        "danceability": 0.694
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+        "popularity": 78,
+        "tempo": 146.009,
+        "key": 2,
+        "energy": 0.729,
+        "danceability": 0.636
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "No Face",
+        "popularity": 78,
+        "tempo": 125.951,
+        "key": 10,
+        "energy": 0.69,
+        "danceability": 0.853
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Fair Trade (with Travis Scott)",
+        "popularity": 78,
+        "tempo": 167.937,
+        "key": 1,
+        "energy": 0.465,
+        "danceability": 0.666
+    },
+    {
+        "artist_name": "Drake",
+        "genre": "hip hop",
+        "track_name": "Teenage Fever",
+        "popularity": 77,
+        "tempo": 97.04,
+        "key": 8,
+        "energy": 0.283,
+        "danceability": 0.766
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "St. Chroma (feat. Daniel Caesar)",
+        "popularity": 89,
+        "tempo": 150.45,
+        "key": 0,
+        "energy": 0.884,
+        "danceability": 0.576
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "See You Again (feat. Kali Uchis)",
+        "popularity": 89,
+        "tempo": 78.558,
+        "key": 6,
+        "energy": 0.559,
+        "danceability": 0.558
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Noid",
+        "popularity": 85,
+        "tempo": 82.318,
+        "key": 1,
+        "energy": 0.784,
+        "danceability": 0.38
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Darling, I (feat. Teezo Touchdown)",
+        "popularity": 87,
+        "tempo": 97.571,
+        "key": 3,
+        "energy": 0.818,
+        "danceability": 0.373
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "popularity": 87,
+        "tempo": 80.09,
+        "key": 1,
+        "energy": 0.812,
+        "danceability": 0.505
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Rah Tah Tah",
+        "popularity": 87,
+        "tempo": 82.557,
+        "key": 1,
+        "energy": 0.878,
+        "danceability": 0.661
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Like Him (feat. Lola Young)",
+        "popularity": 85,
+        "tempo": 96.063,
+        "key": 4,
+        "energy": 0.555,
+        "danceability": 0.392
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+        "popularity": 85,
+        "tempo": 129.77,
+        "key": 10,
+        "energy": 0.859,
+        "danceability": 0.77
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Hey Jane",
+        "popularity": 83,
+        "tempo": 94.563,
+        "key": 10,
+        "energy": 0.784,
+        "danceability": 0.495
+    },
+    {
+        "artist_name": "Tyler, The Creator",
+        "genre": "hip hop",
+        "track_name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+        "popularity": 83,
+        "tempo": 121.784,
+        "key": 6,
+        "energy": 0.658,
+        "danceability": 0.503
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Type Shit",
+        "popularity": 84,
+        "tempo": 144.941,
+        "key": 2,
+        "energy": 0.552,
+        "danceability": 0.64
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Like That",
+        "popularity": 84,
+        "tempo": 162.012,
+        "key": 11,
+        "energy": 0.676,
+        "danceability": 0.814
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Too Many Nights (feat. Don Toliver & with Future)",
+        "popularity": 82,
+        "tempo": 87.973,
+        "key": 7,
+        "energy": 0.668,
+        "danceability": 0.573
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "WAIT FOR U (feat. Drake & Tems)",
+        "popularity": 81,
+        "tempo": 83.389,
+        "key": 1,
+        "energy": 0.642,
+        "danceability": 0.463
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Mask Off",
+        "popularity": 81,
+        "tempo": 150.062,
+        "key": 2,
+        "energy": 0.434,
+        "danceability": 0.833
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+        "popularity": 79,
+        "tempo": 116.624,
+        "key": 5,
+        "energy": 0.583,
+        "danceability": 0.709
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Solo",
+        "popularity": 80,
+        "tempo": 110.964,
+        "key": 5,
+        "energy": 0.486,
+        "danceability": 0.784
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "Low Life (feat. The Weeknd)",
+        "popularity": 79,
+        "tempo": 143.961,
+        "key": 8,
+        "energy": 0.331,
+        "danceability": 0.722
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "TELEKINESIS (feat. SZA & Future)",
+        "popularity": 78,
+        "tempo": 82.826,
+        "key": 5,
+        "energy": 0.535,
+        "danceability": 0.458
+    },
+    {
+        "artist_name": "Future",
+        "genre": "hip hop",
+        "track_name": "PUFFIN ON ZOOTIEZ",
+        "popularity": 77,
+        "tempo": 124.992,
+        "key": 8,
+        "energy": 0.657,
+        "danceability": 0.883
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Heartless",
+        "popularity": 84,
+        "tempo": 87.999,
+        "key": 10,
+        "energy": 0.647,
+        "danceability": 0.79
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Flashing Lights",
+        "popularity": 83,
+        "tempo": 90.482,
+        "key": 6,
+        "energy": 0.628,
+        "danceability": 0.639
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "CARNIVAL",
+        "popularity": 81,
+        "tempo": 148.144,
+        "key": 1,
+        "energy": 0.811,
+        "danceability": 0.594
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Father Stretch My Hands Pt. 1",
+        "popularity": 82,
+        "tempo": 113.088,
+        "key": 7,
+        "energy": 0.573,
+        "danceability": 0.724
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "All Falls Down",
+        "popularity": 81,
+        "tempo": 91.03,
+        "key": 8,
+        "energy": 0.734,
+        "danceability": 0.657
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "I Wonder",
+        "popularity": 81,
+        "tempo": 191.386,
+        "key": 0,
+        "energy": 0.466,
+        "danceability": 0.542
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Violent Crimes",
+        "popularity": 81,
+        "tempo": 109.813,
+        "key": 1,
+        "energy": 0.419,
+        "danceability": 0.669
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Runaway",
+        "popularity": 80,
+        "tempo": 84.733,
+        "key": 1,
+        "energy": 0.568,
+        "danceability": 0.374
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Bound 2",
+        "popularity": 80,
+        "tempo": 148.913,
+        "key": 1,
+        "energy": 0.665,
+        "danceability": 0.367
+    },
+    {
+        "artist_name": "Kanye West",
+        "genre": "hip hop",
+        "track_name": "Gold Digger",
+        "popularity": 79,
+        "tempo": 93.034,
+        "key": 1,
+        "energy": 0.696,
+        "danceability": 0.629
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "Not Like Us",
+        "popularity": 88,
+        "tempo": 101.061,
+        "key": 1,
+        "energy": 0.472,
+        "danceability": 0.898
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "All The Stars (with SZA)",
+        "popularity": 85,
+        "tempo": 96.782,
+        "key": 8,
+        "energy": 0.633,
+        "danceability": 0.695
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "Like That",
+        "popularity": 84,
+        "tempo": 162.012,
+        "key": 11,
+        "energy": 0.676,
+        "danceability": 0.814
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "Money Trees",
+        "popularity": 77,
+        "tempo": 71.994,
+        "key": 7,
+        "energy": 0.531,
+        "danceability": 0.716
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "HUMBLE.",
+        "popularity": 83,
+        "tempo": 150.011,
+        "key": 1,
+        "energy": 0.621,
+        "danceability": 0.908
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "PRIDE.",
+        "popularity": 82,
+        "tempo": 138.842,
+        "key": 4,
+        "energy": 0.535,
+        "danceability": 0.665
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "LOVE. FEAT. ZACARI.",
+        "popularity": 80,
+        "tempo": 126.058,
+        "key": 10,
+        "energy": 0.585,
+        "danceability": 0.8
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "family ties (with Kendrick Lamar)",
+        "popularity": 78,
+        "tempo": 134.093,
+        "key": 1,
+        "energy": 0.611,
+        "danceability": 0.711
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "Alright",
+        "popularity": 79,
+        "tempo": 110.034,
+        "key": 7,
+        "energy": 0.766,
+        "danceability": 0.796
+    },
+    {
+        "artist_name": "Kendrick Lamar",
+        "genre": "hip hop",
+        "track_name": "euphoria",
+        "popularity": 78,
+        "tempo": 139.948,
+        "key": 1,
+        "energy": 0.643,
+        "danceability": 0.831
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Without Me",
+        "popularity": 86,
+        "tempo": 112.238,
+        "key": 7,
+        "energy": 0.669,
+        "danceability": 0.908
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Mockingbird",
+        "popularity": 85,
+        "tempo": 84.039,
+        "key": 0,
+        "energy": 0.678,
+        "danceability": 0.637
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Houdini",
+        "popularity": 78,
+        "tempo": 126.992,
+        "key": 9,
+        "energy": 0.878,
+        "danceability": 0.936
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "The Real Slim Shady",
+        "popularity": 84,
+        "tempo": 104.504,
+        "key": 5,
+        "energy": 0.661,
+        "danceability": 0.949
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Lose Yourself",
+        "popularity": 76,
+        "tempo": 171.374,
+        "key": 2,
+        "energy": 0.744,
+        "danceability": 0.692
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Love The Way You Lie",
+        "popularity": 83,
+        "tempo": 86.989,
+        "key": 10,
+        "energy": 0.925,
+        "danceability": 0.749
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Till I Collapse",
+        "popularity": 82,
+        "tempo": 171.447,
+        "key": 1,
+        "energy": 0.847,
+        "danceability": 0.548
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Superman",
+        "popularity": 81,
+        "tempo": 130.027,
+        "key": 4,
+        "energy": 0.755,
+        "danceability": 0.802
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Godzilla (feat. Juice WRLD)",
+        "popularity": 81,
+        "tempo": 165.995,
+        "key": 10,
+        "energy": 0.745,
+        "danceability": 0.808
+    },
+    {
+        "artist_name": "Eminem",
+        "genre": "hip hop",
+        "track_name": "Stan",
+        "popularity": 79,
+        "tempo": 80.063,
+        "key": 6,
+        "energy": 0.768,
+        "danceability": 0.78
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "Antarctica",
+        "popularity": 77,
+        "tempo": 105.945,
+        "key": 2,
+        "energy": 0.633,
+        "danceability": 0.715
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "...And to Those I Love, Thanks for Sticking Around",
+        "popularity": 76,
+        "tempo": 113.983,
+        "key": 2,
+        "energy": 0.511,
+        "danceability": 0.792
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "For the Last Time",
+        "popularity": 75,
+        "tempo": 140.078,
+        "key": 1,
+        "energy": 0.533,
+        "danceability": 0.844
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "1000 Blunts",
+        "popularity": 75,
+        "tempo": 132.99,
+        "key": 5,
+        "energy": 0.698,
+        "danceability": 0.83
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "Kill Yourself (Part III)",
+        "popularity": 75,
+        "tempo": 105.977,
+        "key": 5,
+        "energy": 0.68,
+        "danceability": 0.753
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "Paris",
+        "popularity": 74,
+        "tempo": 106.058,
+        "key": 7,
+        "energy": 0.648,
+        "danceability": 0.849
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "Avalon",
+        "popularity": 71,
+        "tempo": 149.992,
+        "key": 2,
+        "energy": 0.6,
+        "danceability": 0.877
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+        "popularity": 73,
+        "tempo": 125.98,
+        "key": 11,
+        "energy": 0.748,
+        "danceability": 0.78
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "Runnin' Thru the 7th with My Woadies",
+        "popularity": 73,
+        "tempo": 112.082,
+        "key": 11,
+        "energy": 0.621,
+        "danceability": 0.686
+    },
+    {
+        "artist_name": "$uicideboy$",
+        "genre": "hip hop",
+        "track_name": "The Thin Grey Line",
+        "popularity": 71,
+        "tempo": 142.908,
+        "key": 1,
+        "energy": 0.806,
+        "danceability": 0.761
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "popularity": 87,
+        "tempo": 80.09,
+        "key": 1,
+        "energy": 0.812,
+        "danceability": 0.505
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Love Me",
+        "popularity": 82,
+        "tempo": 124.926,
+        "key": 11,
+        "energy": 0.634,
+        "danceability": 0.67
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Lollipop",
+        "popularity": 64,
+        "tempo": 148.074,
+        "key": 0,
+        "energy": 0.43,
+        "danceability": 0.833
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "popularity": 73,
+        "tempo": 169.021,
+        "key": 9,
+        "energy": 0.786,
+        "danceability": 0.502
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Forever",
+        "popularity": 73,
+        "tempo": 104.02,
+        "key": 5,
+        "energy": 0.906,
+        "danceability": 0.457
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Mirror",
+        "popularity": 73,
+        "tempo": 74.267,
+        "key": 5,
+        "energy": 0.622,
+        "danceability": 0.328
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "A Milli",
+        "popularity": 64,
+        "tempo": 151.812,
+        "key": 6,
+        "energy": 0.688,
+        "danceability": 0.678
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Mrs. Officer",
+        "popularity": 62,
+        "tempo": 111.982,
+        "key": 6,
+        "energy": 0.556,
+        "danceability": 0.916
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
+        "popularity": 70,
+        "tempo": 145.819,
+        "key": 11,
+        "energy": 0.5,
+        "danceability": 0.591
+    },
+    {
+        "artist_name": "Lil Wayne",
+        "genre": "hip hop",
+        "track_name": "6 Foot 7 Foot",
+        "popularity": 69,
+        "tempo": 79.119,
+        "key": 2,
+        "energy": 0.752,
+        "danceability": 0.364
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "redrum",
+        "popularity": 81,
+        "tempo": 172.09,
+        "key": 2,
+        "energy": 0.733,
+        "danceability": 0.625
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "Creepin' (with The Weeknd & 21 Savage)",
+        "popularity": 81,
+        "tempo": 97.914,
+        "key": 1,
+        "energy": 0.613,
+        "danceability": 0.716
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "Glock In My Lap",
+        "popularity": 80,
+        "tempo": 130.029,
+        "key": 10,
+        "energy": 0.733,
+        "danceability": 0.847
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "Jimmy Cooks (feat. 21 Savage)",
+        "popularity": 79,
+        "tempo": 165.921,
+        "key": 0,
+        "energy": 0.673,
+        "danceability": 0.529
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "ball w/o you",
+        "popularity": 79,
+        "tempo": 137.994,
+        "key": 8,
+        "energy": 0.633,
+        "danceability": 0.892
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "Runnin",
+        "popularity": 78,
+        "tempo": 143.01,
+        "key": 10,
+        "energy": 0.626,
+        "danceability": 0.819
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "It's Up (feat. Young Thug & 21 Savage)",
+        "popularity": 76,
+        "tempo": 139.942,
+        "key": 1,
+        "energy": 0.723,
+        "danceability": 0.783
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "a lot",
+        "popularity": 76,
+        "tempo": 145.972,
+        "key": 1,
+        "energy": 0.636,
+        "danceability": 0.837
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+        "popularity": 76,
+        "tempo": 160.098,
+        "key": 1,
+        "energy": 0.567,
+        "danceability": 0.715
+    },
+    {
+        "artist_name": "21 Savage",
+        "genre": "hip hop",
+        "track_name": "prove it",
+        "popularity": 73,
+        "tempo": 133.924,
+        "key": 6,
+        "energy": 0.743,
+        "danceability": 0.565
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
+        "popularity": 60,
+        "tempo": 83.827,
+        "key": 6,
+        "energy": 0.579,
+        "danceability": 0.443
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "20 Min",
+        "popularity": 82,
+        "tempo": 123.426,
+        "key": 8,
+        "energy": 0.75,
+        "danceability": 0.773
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "XO Tour Llif3",
+        "popularity": 81,
+        "tempo": 155.096,
+        "key": 11,
+        "energy": 0.75,
+        "danceability": 0.732
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "The Way Life Goes (feat. Oh Wonder)",
+        "popularity": 79,
+        "tempo": 82.008,
+        "key": 1,
+        "energy": 0.757,
+        "danceability": 0.703
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Just Wanna Rock",
+        "popularity": 73,
+        "tempo": 150.185,
+        "key": 11,
+        "energy": 0.545,
+        "danceability": 0.485
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Chill Bae",
+        "popularity": 75,
+        "tempo": 184.057,
+        "key": 3,
+        "energy": 0.663,
+        "danceability": 0.672
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Watch This - ARIZONATEARS Pluggnb Remix",
+        "popularity": 75,
+        "tempo": 129.975,
+        "key": 11,
+        "energy": 0.897,
+        "danceability": 0.686
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Light Year (Practice)",
+        "popularity": 74,
+        "tempo": 140.203,
+        "key": 1,
+        "energy": 0.692,
+        "danceability": 0.637
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Money Longer",
+        "popularity": 72,
+        "tempo": 136.173,
+        "key": 5,
+        "energy": 0.568,
+        "danceability": 0.795
+    },
+    {
+        "artist_name": "Lil Uzi Vert",
+        "genre": "hip hop",
+        "track_name": "Silly Watch",
+        "popularity": 72,
+        "tempo": 130.117,
+        "key": 8,
+        "energy": 0.535,
+        "danceability": 0.903
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "It's Beginning to Look a Lot like Christmas",
+        "popularity": 67,
+        "tempo": 92.896,
+        "key": 4,
+        "energy": 0.223,
+        "danceability": 0.331
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Feeling Good",
+        "popularity": 66,
+        "tempo": 115.144,
+        "key": 1,
+        "energy": 0.548,
+        "danceability": 0.535
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Holly Jolly Christmas",
+        "popularity": 67,
+        "tempo": 151.433,
+        "key": 0,
+        "energy": 0.427,
+        "danceability": 0.609
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Sway",
+        "popularity": 72,
+        "tempo": 125.959,
+        "key": 2,
+        "energy": 0.639,
+        "danceability": 0.713
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Home",
+        "popularity": 61,
+        "tempo": 127.631,
+        "key": 7,
+        "energy": 0.37,
+        "danceability": 0.608
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Santa Claus Is Coming to Town",
+        "popularity": 59,
+        "tempo": 122.915,
+        "key": 10,
+        "energy": 0.396,
+        "danceability": 0.59
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Haven't Met You Yet",
+        "popularity": 68,
+        "tempo": 122.58,
+        "key": 8,
+        "energy": 0.733,
+        "danceability": 0.615
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Everything",
+        "popularity": 68,
+        "tempo": 123.125,
+        "key": 6,
+        "energy": 0.688,
+        "danceability": 0.686
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Spicy Margarita",
+        "popularity": 63,
+        "tempo": 129.953,
+        "key": 6,
+        "energy": 0.825,
+        "danceability": 0.714
+    },
+    {
+        "artist_name": "Michael Bubl\u00e9",
+        "genre": "jazz",
+        "track_name": "Have Yourself a Merry Little Christmas",
+        "popularity": 56,
+        "tempo": 68.764,
+        "key": 9,
+        "energy": 0.276,
+        "danceability": 0.275
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Alexander Hamilton",
+        "popularity": 68,
+        "tempo": 131.995,
+        "key": 11,
+        "energy": 0.435,
+        "danceability": 0.609
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Wait for It",
+        "popularity": 68,
+        "tempo": 86.534,
+        "key": 6,
+        "energy": 0.473,
+        "danceability": 0.543
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Non-Stop",
+        "popularity": 67,
+        "tempo": 91.994,
+        "key": 6,
+        "energy": 0.482,
+        "danceability": 0.77
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "My Shot",
+        "popularity": 67,
+        "tempo": 180.466,
+        "key": 8,
+        "energy": 0.649,
+        "danceability": 0.698
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "The Schuyler Sisters",
+        "popularity": 67,
+        "tempo": 101.409,
+        "key": 2,
+        "energy": 0.727,
+        "danceability": 0.74
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Aaron Burr, Sir",
+        "popularity": 67,
+        "tempo": 160.387,
+        "key": 7,
+        "energy": 0.439,
+        "danceability": 0.646
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Guns and Ships",
+        "popularity": 66,
+        "tempo": 138.03,
+        "key": 7,
+        "energy": 0.666,
+        "danceability": 0.72
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "The Room Where It Happens",
+        "popularity": 65,
+        "tempo": 173.552,
+        "key": 4,
+        "energy": 0.49,
+        "danceability": 0.638
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "Dear Theodosia",
+        "popularity": 64,
+        "tempo": 106.771,
+        "key": 9,
+        "energy": 0.221,
+        "danceability": 0.598
+    },
+    {
+        "artist_name": "Leslie Odom Jr.",
+        "genre": "jazz",
+        "track_name": "A Winter's Ball",
+        "popularity": 64,
+        "tempo": 131.352,
+        "key": 8,
+        "energy": 0.327,
+        "danceability": 0.854
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "September",
+        "popularity": 82,
+        "tempo": 125.996,
+        "key": 9,
+        "energy": 0.832,
+        "danceability": 0.674
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Boogie Wonderland",
+        "popularity": 76,
+        "tempo": 131.715,
+        "key": 2,
+        "energy": 0.756,
+        "danceability": 0.802
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Let's Groove",
+        "popularity": 75,
+        "tempo": 125.035,
+        "key": 11,
+        "energy": 0.648,
+        "danceability": 0.869
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "After the Love Has Gone",
+        "popularity": 64,
+        "tempo": 131.675,
+        "key": 6,
+        "energy": 0.443,
+        "danceability": 0.424
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Fantasy",
+        "popularity": 62,
+        "tempo": 89.018,
+        "key": 4,
+        "energy": 0.714,
+        "danceability": 0.666
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Shining Star",
+        "popularity": 60,
+        "tempo": 102.516,
+        "key": 9,
+        "energy": 0.692,
+        "danceability": 0.676
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "September - from DreamWorks Animation's \"TROLLS\"",
+        "popularity": 58,
+        "tempo": 126.996,
+        "key": 9,
+        "energy": 0.849,
+        "danceability": 0.774
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Reasons",
+        "popularity": 58,
+        "tempo": 126.632,
+        "key": 3,
+        "energy": 0.43,
+        "danceability": 0.604
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "Fantasy",
+        "popularity": 55,
+        "tempo": 88.941,
+        "key": 4,
+        "energy": 0.745,
+        "danceability": 0.608
+    },
+    {
+        "artist_name": "Earth, Wind & Fire",
+        "genre": "jazz",
+        "track_name": "That's the Way of the World",
+        "popularity": 54,
+        "tempo": 82.0,
+        "key": 1,
+        "energy": 0.552,
+        "danceability": 0.586
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "L-O-V-E",
+        "popularity": 74,
+        "tempo": 78.231,
+        "key": 4,
+        "energy": 0.373,
+        "danceability": 0.425
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "The Christmas Song (Merry Christmas To You)",
+        "popularity": 63,
+        "tempo": 66.862,
+        "key": 1,
+        "energy": 0.095,
+        "danceability": 0.283
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Deck The Hall",
+        "popularity": 71,
+        "tempo": 107.607,
+        "key": 9,
+        "energy": 0.437,
+        "danceability": 0.684
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Unforgettable",
+        "popularity": 68,
+        "tempo": 136.094,
+        "key": 5,
+        "energy": 0.182,
+        "danceability": 0.349
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Joy To The World",
+        "popularity": 65,
+        "tempo": 102.213,
+        "key": 10,
+        "energy": 0.337,
+        "danceability": 0.553
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Smile - Mono / 1954 Version / Remastered 1992",
+        "popularity": 59,
+        "tempo": 81.652,
+        "key": 8,
+        "energy": 0.148,
+        "danceability": 0.206
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "(I Love You) For Sentimental Reasons",
+        "popularity": 63,
+        "tempo": 65.888,
+        "key": 1,
+        "energy": 0.0418,
+        "danceability": 0.325
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "When I Fall In Love",
+        "popularity": 61,
+        "tempo": 81.538,
+        "key": 1,
+        "energy": 0.215,
+        "danceability": 0.19
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Orange Colored Sky",
+        "popularity": 59,
+        "tempo": 128.897,
+        "key": 10,
+        "energy": 0.24,
+        "danceability": 0.536
+    },
+    {
+        "artist_name": "Nat King Cole",
+        "genre": "jazz",
+        "track_name": "Caroling, Caroling",
+        "popularity": 59,
+        "tempo": 185.341,
+        "key": 5,
+        "energy": 0.384,
+        "danceability": 0.307
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Let It Snow! Let It Snow! Let It Snow!",
+        "popularity": 77,
+        "tempo": 134.009,
+        "key": 1,
+        "energy": 0.241,
+        "danceability": 0.451
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Rudolph, The Red-Nosed Reindeer - Remastered 2002",
+        "popularity": 32,
+        "tempo": 136.263,
+        "key": 7,
+        "energy": 0.18,
+        "danceability": 0.494
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Everybody Loves Somebody",
+        "popularity": 67,
+        "tempo": 119.182,
+        "key": 3,
+        "energy": 0.391,
+        "danceability": 0.366
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "That's Amore",
+        "popularity": 59,
+        "tempo": 78.554,
+        "key": 10,
+        "energy": 0.146,
+        "danceability": 0.471
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Silver Bells",
+        "popularity": 65,
+        "tempo": 97.173,
+        "key": 8,
+        "energy": 0.259,
+        "danceability": 0.29
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+        "popularity": 65,
+        "tempo": 128.629,
+        "key": 6,
+        "energy": 0.144,
+        "danceability": 0.612
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Sway (Quien Sera)",
+        "popularity": 58,
+        "tempo": 120.132,
+        "key": 7,
+        "energy": 0.246,
+        "danceability": 0.591
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Ain't That A Kick In The Head",
+        "popularity": 60,
+        "tempo": 108.168,
+        "key": 6,
+        "energy": 0.253,
+        "danceability": 0.586
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Rudolph The Red-Nosed Reindeer",
+        "popularity": 63,
+        "tempo": 136.47,
+        "key": 7,
+        "energy": 0.201,
+        "danceability": 0.478
+    },
+    {
+        "artist_name": "Dean Martin",
+        "genre": "jazz",
+        "track_name": "Baby, It's Cold Outside",
+        "popularity": 62,
+        "tempo": 129.581,
+        "key": 0,
+        "energy": 0.196,
+        "danceability": 0.439
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Don't Know Why",
+        "popularity": 75,
+        "tempo": 88.609,
+        "key": 5,
+        "energy": 0.219,
+        "danceability": 0.745
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Sunrise",
+        "popularity": 74,
+        "tempo": 156.848,
+        "key": 8,
+        "energy": 0.299,
+        "danceability": 0.526
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Come Away With Me",
+        "popularity": 71,
+        "tempo": 76.64,
+        "key": 0,
+        "energy": 0.141,
+        "danceability": 0.436
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Turn Me On",
+        "popularity": 69,
+        "tempo": 170.645,
+        "key": 10,
+        "energy": 0.18,
+        "danceability": 0.429
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Those Sweet Words",
+        "popularity": 65,
+        "tempo": 103.152,
+        "key": 2,
+        "energy": 0.234,
+        "danceability": 0.798
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "What Am I To You?",
+        "popularity": 64,
+        "tempo": 75.978,
+        "key": 0,
+        "energy": 0.347,
+        "danceability": 0.651
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Carry On",
+        "popularity": 63,
+        "tempo": 79.941,
+        "key": 10,
+        "energy": 0.216,
+        "danceability": 0.547
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Here We Go Again",
+        "popularity": 63,
+        "tempo": 98.966,
+        "key": 10,
+        "energy": 0.298,
+        "danceability": 0.628
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Seven Years",
+        "popularity": 62,
+        "tempo": 127.381,
+        "key": 7,
+        "energy": 0.193,
+        "danceability": 0.592
+    },
+    {
+        "artist_name": "Norah Jones",
+        "genre": "jazz",
+        "track_name": "Roll Me Up and Smoke Me When I Die - Live",
+        "popularity": 60,
+        "tempo": 106.859,
+        "key": 0,
+        "energy": 0.813,
+        "danceability": 0.427
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "(Sittin' On) the Dock of the Bay",
+        "popularity": 80,
+        "tempo": 103.621,
+        "key": 2,
+        "energy": 0.367,
+        "danceability": 0.768
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Stand by Me",
+        "popularity": 66,
+        "tempo": 111.548,
+        "key": 10,
+        "energy": 0.464,
+        "danceability": 0.883
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "These Arms of Mine",
+        "popularity": 65,
+        "tempo": 176.537,
+        "key": 10,
+        "energy": 0.284,
+        "danceability": 0.403
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Hard to Handle",
+        "popularity": 65,
+        "tempo": 95.552,
+        "key": 10,
+        "energy": 0.55,
+        "danceability": 0.666
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Try a Little Tenderness",
+        "popularity": 61,
+        "tempo": 102.938,
+        "key": 9,
+        "energy": 0.133,
+        "danceability": 0.587
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "My Girl",
+        "popularity": 60,
+        "tempo": 102.889,
+        "key": 0,
+        "energy": 0.322,
+        "danceability": 0.74
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "I've Been Loving You Too Long",
+        "popularity": 59,
+        "tempo": 148.482,
+        "key": 9,
+        "energy": 0.246,
+        "danceability": 0.499
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Cigarettes and Coffee",
+        "popularity": 58,
+        "tempo": 138.063,
+        "key": 0,
+        "energy": 0.275,
+        "danceability": 0.483
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Love Man",
+        "popularity": 56,
+        "tempo": 149.141,
+        "key": 11,
+        "energy": 0.611,
+        "danceability": 0.588
+    },
+    {
+        "artist_name": "Otis Redding",
+        "genre": "jazz",
+        "track_name": "Send Me Some Lovin'",
+        "popularity": 53,
+        "tempo": 181.287,
+        "key": 10,
+        "energy": 0.158,
+        "danceability": 0.493
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "What A Wonderful World",
+        "popularity": 76,
+        "tempo": 77.082,
+        "key": 5,
+        "energy": 0.165,
+        "danceability": 0.271
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "La vie en rose - Single Version",
+        "popularity": 69,
+        "tempo": 70.136,
+        "key": 0,
+        "energy": 0.0405,
+        "danceability": 0.52
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "Dream A Little Dream Of Me",
+        "popularity": 66,
+        "tempo": 95.642,
+        "key": 2,
+        "energy": 0.183,
+        "danceability": 0.455
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "Cheek To Cheek",
+        "popularity": 61,
+        "tempo": 121.999,
+        "key": 0,
+        "energy": 0.31,
+        "danceability": 0.655
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "Hello, Dolly!",
+        "popularity": 64,
+        "tempo": 0,
+        "key": 0,
+        "energy": 0.405,
+        "danceability": 0
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "A Kiss To Build A Dream On - Single Version",
+        "popularity": 63,
+        "tempo": 88.044,
+        "key": 0,
+        "energy": 0.0811,
+        "danceability": 0.722
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "Summertime",
+        "popularity": 62,
+        "tempo": 167.004,
+        "key": 6,
+        "energy": 0.0695,
+        "danceability": 0.175
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "They Can't Take That Away From Me",
+        "popularity": 56,
+        "tempo": 104.723,
+        "key": 3,
+        "energy": 0.185,
+        "danceability": 0.555
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "C'est si bon",
+        "popularity": 56,
+        "tempo": 113.204,
+        "key": 0,
+        "energy": 0.189,
+        "danceability": 0.6
+    },
+    {
+        "artist_name": "Louis Armstrong",
+        "genre": "jazz",
+        "track_name": "Autumn In New York",
+        "popularity": 59,
+        "tempo": 135.335,
+        "key": 7,
+        "energy": 0.0469,
+        "danceability": 0.425
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "I'd Rather Go Blind",
+        "popularity": 76,
+        "tempo": 82.52,
+        "key": 11,
+        "energy": 0.433,
+        "danceability": 0.477
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "At Last",
+        "popularity": 75,
+        "tempo": 87.43,
+        "key": 5,
+        "energy": 0.348,
+        "danceability": 0.274
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "A Sunday Kind Of Love",
+        "popularity": 71,
+        "tempo": 85.861,
+        "key": 2,
+        "energy": 0.285,
+        "danceability": 0.421
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "Stormy Weather",
+        "popularity": 67,
+        "tempo": 174.177,
+        "key": 0,
+        "energy": 0.356,
+        "danceability": 0.262
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "Something's Got A Hold On Me",
+        "popularity": 66,
+        "tempo": 151.394,
+        "key": 1,
+        "energy": 0.584,
+        "danceability": 0.469
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "I Just Want To Make Love To You - Single Version",
+        "popularity": 63,
+        "tempo": 101.635,
+        "key": 3,
+        "energy": 0.523,
+        "danceability": 0.642
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "Trust In Me",
+        "popularity": 54,
+        "tempo": 64.033,
+        "key": 10,
+        "energy": 0.377,
+        "danceability": 0.486
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "All I Could Do Was Cry",
+        "popularity": 52,
+        "tempo": 173.509,
+        "key": 8,
+        "energy": 0.244,
+        "danceability": 0.363
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "Don't Cry Baby",
+        "popularity": 50,
+        "tempo": 132.022,
+        "key": 5,
+        "energy": 0.154,
+        "danceability": 0.427
+    },
+    {
+        "artist_name": "Etta James",
+        "genre": "jazz",
+        "track_name": "Tell Mama",
+        "popularity": 50,
+        "tempo": 119.812,
+        "key": 5,
+        "energy": 0.784,
+        "danceability": 0.676
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Dream A Little Dream Of Me",
+        "popularity": 51,
+        "tempo": 95.261,
+        "key": 0,
+        "energy": 0.154,
+        "danceability": 0.491
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Frosty The Snowman",
+        "popularity": 66,
+        "tempo": 76.783,
+        "key": 8,
+        "energy": 0.502,
+        "danceability": 0.579
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Cheek To Cheek",
+        "popularity": 61,
+        "tempo": 121.999,
+        "key": 0,
+        "energy": 0.31,
+        "danceability": 0.655
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Summertime",
+        "popularity": 62,
+        "tempo": 167.004,
+        "key": 6,
+        "energy": 0.0695,
+        "danceability": 0.175
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Sleigh Ride",
+        "popularity": 61,
+        "tempo": 77.117,
+        "key": 1,
+        "energy": 0.287,
+        "danceability": 0.593
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "I'm Just A Lucky So And So",
+        "popularity": 38,
+        "tempo": 68.31,
+        "key": 0,
+        "energy": 0.237,
+        "danceability": 0.324
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "They Can't Take That Away From Me",
+        "popularity": 56,
+        "tempo": 104.723,
+        "key": 3,
+        "energy": 0.185,
+        "danceability": 0.555
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "Autumn In New York",
+        "popularity": 59,
+        "tempo": 135.335,
+        "key": 7,
+        "energy": 0.0469,
+        "danceability": 0.425
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "I've Got A Crush On You",
+        "popularity": 57,
+        "tempo": 66.807,
+        "key": 2,
+        "energy": 0.106,
+        "danceability": 0.455
+    },
+    {
+        "artist_name": "Ella Fitzgerald",
+        "genre": "jazz",
+        "track_name": "It's Only A Paper Moon",
+        "popularity": 56,
+        "tempo": 114.044,
+        "key": 10,
+        "energy": 0.103,
+        "danceability": 0.761
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+        "popularity": 62,
+        "tempo": 77.423,
+        "key": 7,
+        "energy": 0.111,
+        "danceability": 0.218
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+        "popularity": 51,
+        "tempo": 133.564,
+        "key": 0,
+        "energy": 0.126,
+        "danceability": 0.221
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Prelude in C Minor, BWV 999",
+        "popularity": 49,
+        "tempo": 119.647,
+        "key": 7,
+        "energy": 0.15,
+        "danceability": 0.338
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Prelude in D Minor, BWV 926",
+        "popularity": 48,
+        "tempo": 125.519,
+        "key": 7,
+        "energy": 0.183,
+        "danceability": 0.354
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\"",
+        "popularity": 59,
+        "tempo": 112.654,
+        "key": 2,
+        "energy": 0.0698,
+        "danceability": 0.168
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Goldberg Variations, BWV 988: Aria",
+        "popularity": 60,
+        "tempo": 130.242,
+        "key": 4,
+        "energy": 0.0139,
+        "danceability": 0.454
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Prelude in C Major, BWV 924: Praeambulum in C Major, BWV 924",
+        "popularity": 45,
+        "tempo": 138.562,
+        "key": 0,
+        "energy": 0.216,
+        "danceability": 0.268
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",
+        "popularity": 60,
+        "tempo": 73.144,
+        "key": 7,
+        "energy": 0.0299,
+        "danceability": 0.359
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie",
+        "popularity": 59,
+        "tempo": 130.998,
+        "key": 11,
+        "energy": 0.269,
+        "danceability": 0.515
+    },
+    {
+        "artist_name": "Johann Sebastian Bach",
+        "genre": "classical",
+        "track_name": "Prelude in G Minor, BWV 930: Praeambulum in G Minor, BWV 930",
+        "popularity": 44,
+        "tempo": 128.782,
+        "key": 7,
+        "energy": 0.236,
+        "danceability": 0.325
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Experience",
+        "popularity": 75,
+        "tempo": 92.468,
+        "key": 2,
+        "energy": 0.449,
+        "danceability": 0.447
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Adieux",
+        "popularity": 62,
+        "tempo": 73.558,
+        "key": 3,
+        "energy": 0.00407,
+        "danceability": 0.224
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Nuvole Bianche",
+        "popularity": 70,
+        "tempo": 132.614,
+        "key": 8,
+        "energy": 0.0582,
+        "danceability": 0.191
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Una Mattina",
+        "popularity": 69,
+        "tempo": 131.413,
+        "key": 2,
+        "energy": 0.0297,
+        "danceability": 0.231
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "The Tree",
+        "popularity": 62,
+        "tempo": 90.804,
+        "key": 5,
+        "energy": 0.00329,
+        "danceability": 0.316
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Wind Song",
+        "popularity": 66,
+        "tempo": 72.7,
+        "key": 11,
+        "energy": 0.00572,
+        "danceability": 0.339
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Primavera",
+        "popularity": 61,
+        "tempo": 141.628,
+        "key": 0,
+        "energy": 0.206,
+        "danceability": 0.231
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Divenire",
+        "popularity": 59,
+        "tempo": 88.381,
+        "key": 7,
+        "energy": 0.217,
+        "danceability": 0.14
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Fly",
+        "popularity": 58,
+        "tempo": 167.972,
+        "key": 1,
+        "energy": 0.178,
+        "danceability": 0.174
+    },
+    {
+        "artist_name": "Ludovico Einaudi",
+        "genre": "classical",
+        "track_name": "Luminous",
+        "popularity": 59,
+        "tempo": 67.775,
+        "key": 1,
+        "energy": 0.00229,
+        "danceability": 0.307
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa",
+        "popularity": 58,
+        "tempo": 74.782,
+        "key": 2,
+        "energy": 0.101,
+        "danceability": 0.069
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+        "popularity": 55,
+        "tempo": 120.286,
+        "key": 0,
+        "energy": 0.248,
+        "danceability": 0.315
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+        "popularity": 61,
+        "tempo": 179.223,
+        "key": 5,
+        "energy": 0.0311,
+        "danceability": 0.137
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
+        "popularity": 58,
+        "tempo": 67.89,
+        "key": 3,
+        "energy": 0.037,
+        "danceability": 0.171
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Mozart: Fantasia in D Minor, K. 397",
+        "popularity": 51,
+        "tempo": 125.261,
+        "key": 2,
+        "energy": 0.0494,
+        "danceability": 0.384
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
+        "popularity": 57,
+        "tempo": 79.904,
+        "key": 7,
+        "energy": 0.237,
+        "danceability": 0.428
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Requiem, K. 626: Lacrimosa",
+        "popularity": 57,
+        "tempo": 132.047,
+        "key": 2,
+        "energy": 0.0898,
+        "danceability": 0.162
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Ave verum corpus, K.618 (Arr. for Piano by Franz Liszt)",
+        "popularity": 57,
+        "tempo": 68.542,
+        "key": 11,
+        "energy": 0.00354,
+        "danceability": 0.435
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Adagio in E Major, K. 261",
+        "popularity": 56,
+        "tempo": 100.309,
+        "key": 4,
+        "energy": 0.079,
+        "danceability": 0.194
+    },
+    {
+        "artist_name": "Wolfgang Amadeus Mozart",
+        "genre": "classical",
+        "track_name": "Die Hochzeit des Figaro, K. 492, 3. Akt: Canzonetta sull aria\u2026 Che soave zeffiretto (Die Verurteilten): Sinfonia",
+        "popularity": 56,
+        "tempo": 145.162,
+        "key": 2,
+        "energy": 0.144,
+        "danceability": 0.313
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+        "popularity": 68,
+        "tempo": 58.303,
+        "key": 4,
+        "energy": 0.164,
+        "danceability": 0.136
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Duel of the Fates",
+        "popularity": 59,
+        "tempo": 79.986,
+        "key": 2,
+        "energy": 0.411,
+        "danceability": 0.471
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Rigoletto, Act III: La donna \u00e8 mobile",
+        "popularity": 47,
+        "tempo": 133.33,
+        "key": 6,
+        "energy": 0.248,
+        "danceability": 0.37
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",
+        "popularity": 60,
+        "tempo": 140.966,
+        "key": 4,
+        "energy": 0.0545,
+        "danceability": 0.194
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "The Imperial March (Darth Vader's Theme)",
+        "popularity": 57,
+        "tempo": 103.112,
+        "key": 7,
+        "energy": 0.379,
+        "danceability": 0.577
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Across the Stars (Love Theme from \"Star Wars: Attack of the Clones\")",
+        "popularity": 56,
+        "tempo": 80.611,
+        "key": 0,
+        "energy": 0.13,
+        "danceability": 0.116
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "The Four Seasons Spring Op.8 No. 1 Allegro",
+        "popularity": 20,
+        "tempo": 99.565,
+        "key": 4,
+        "energy": 0.04,
+        "danceability": 0.48
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "Palladio: 1. Allegretto (arr. for Strings Orchestra)",
+        "popularity": 57,
+        "tempo": 90.041,
+        "key": 2,
+        "energy": 0.339,
+        "danceability": 0.53
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "The Imitation Game",
+        "popularity": 56,
+        "tempo": 103.925,
+        "key": 5,
+        "energy": 0.308,
+        "danceability": 0.318
+    },
+    {
+        "artist_name": "London Symphony Orchestra",
+        "genre": "classical",
+        "track_name": "M\u00e9ditation from Tha\u00efs",
+        "popularity": 51,
+        "tempo": 89.33,
+        "key": 4,
+        "energy": 0.0701,
+        "danceability": 0.114
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\"",
+        "popularity": 59,
+        "tempo": 112.654,
+        "key": 2,
+        "energy": 0.0698,
+        "danceability": 0.168
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso",
+        "popularity": 57,
+        "tempo": 142.536,
+        "key": 7,
+        "energy": 0.148,
+        "danceability": 0.139
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 13, Waltz of the Flowers",
+        "popularity": 57,
+        "tempo": 47.362,
+        "key": 2,
+        "energy": 0.128,
+        "danceability": 0.149
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "An der sch\u00f6nen blauen Donau, Waltz, Op. 314",
+        "popularity": 57,
+        "tempo": 94.736,
+        "key": 2,
+        "energy": 0.0252,
+        "danceability": 0.233
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Peer Gynt Suite No. 1, Op. 46: I. Morning Mood",
+        "popularity": 56,
+        "tempo": 74.988,
+        "key": 4,
+        "energy": 0.0262,
+        "danceability": 0.137
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Symphony No. 5: IV. Adagietto. Sehr langsam",
+        "popularity": 56,
+        "tempo": 91.204,
+        "key": 5,
+        "energy": 0.0163,
+        "danceability": 0.171
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Barber: Adagio for Strings",
+        "popularity": 44,
+        "tempo": 72.616,
+        "key": 10,
+        "energy": 0.0735,
+        "danceability": 0.064
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
+        "popularity": 47,
+        "tempo": 101.769,
+        "key": 2,
+        "energy": 0.0115,
+        "danceability": 0.15
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act I: No. 2, March",
+        "popularity": 53,
+        "tempo": 150.319,
+        "key": 4,
+        "energy": 0.116,
+        "danceability": 0.444
+    },
+    {
+        "artist_name": "Berliner Philharmoniker",
+        "genre": "classical",
+        "track_name": "Swan Lake (Suite), Op. 20a, TH. 219: I. Scene - Swan Theme",
+        "popularity": 54,
+        "tempo": 73.59,
+        "key": 4,
+        "energy": 0.204,
+        "danceability": 0.126
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
+        "popularity": 65,
+        "tempo": 163.665,
+        "key": 1,
+        "energy": 0.0047,
+        "danceability": 0.225
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+        "popularity": 64,
+        "tempo": 129.129,
+        "key": 3,
+        "energy": 0.00925,
+        "danceability": 0.44
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Waltz No. 19 in A minor, Op. posth.",
+        "popularity": 61,
+        "tempo": 69.156,
+        "key": 9,
+        "energy": 0.0261,
+        "danceability": 0.308
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne Op. 9 No. 2",
+        "popularity": 60,
+        "tempo": 137.697,
+        "key": 10,
+        "energy": 0.0146,
+        "danceability": 0.446
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Pr\u00e9lude in E minor, Op. 28, No. 4",
+        "popularity": 60,
+        "tempo": 63.386,
+        "key": 4,
+        "energy": 0.00269,
+        "danceability": 0.388
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne en Mi B\u00e9mol Majeur, Op. 9 No. 2",
+        "popularity": 59,
+        "tempo": 119.78,
+        "key": 3,
+        "energy": 0.0451,
+        "danceability": 0.427
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
+        "popularity": 58,
+        "tempo": 75.296,
+        "key": 1,
+        "energy": 0.0149,
+        "danceability": 0.261
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne in C-sharp minor, B. 49",
+        "popularity": 57,
+        "tempo": 72.111,
+        "key": 6,
+        "energy": 0.00397,
+        "danceability": 0.277
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "24 Pr\u00e9ludes, Op. 28: No. 4, Largo",
+        "popularity": 45,
+        "tempo": 111.902,
+        "key": 5,
+        "energy": 0.0164,
+        "danceability": 0.427
+    },
+    {
+        "artist_name": "Fr\u00e9d\u00e9ric Chopin",
+        "genre": "classical",
+        "track_name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+        "popularity": 50,
+        "tempo": 61.757,
+        "key": 1,
+        "energy": 0.0179,
+        "danceability": 0.342
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto",
+        "popularity": 68,
+        "tempo": 170.612,
+        "key": 1,
+        "energy": 0.00527,
+        "danceability": 0.184
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
+        "popularity": 63,
+        "tempo": 125.61,
+        "key": 9,
+        "energy": 0.0306,
+        "danceability": 0.289
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Bagatelle in A Minor, WoO 59, \"Fur Elise\"",
+        "popularity": 48,
+        "tempo": 143.972,
+        "key": 9,
+        "energy": 0.0141,
+        "danceability": 0.246
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+        "popularity": 59,
+        "tempo": 97.784,
+        "key": 0,
+        "energy": 0.298,
+        "danceability": 0.247
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto",
+        "popularity": 59,
+        "tempo": 161.58,
+        "key": 10,
+        "energy": 0.0814,
+        "danceability": 0.367
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "F\u00fcr Elise, WoO 59",
+        "popularity": 59,
+        "tempo": 126.931,
+        "key": 9,
+        "energy": 0.108,
+        "danceability": 0.303
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "F\u00fcr Elise, Bagatelle in A Minor, WoO 59",
+        "popularity": 53,
+        "tempo": 134.839,
+        "key": 5,
+        "energy": 0.0487,
+        "danceability": 0.23
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27/2 \"Moonlight Sonata\": I. Adagio sostenuto",
+        "popularity": 56,
+        "tempo": 139.161,
+        "key": 1,
+        "energy": 0.00245,
+        "danceability": 0.278
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Beethoven's 5 Secrets",
+        "popularity": 39,
+        "tempo": 149.846,
+        "key": 2,
+        "energy": 0.497,
+        "danceability": 0.286
+    },
+    {
+        "artist_name": "Ludwig van Beethoven",
+        "genre": "classical",
+        "track_name": "Adagietto",
+        "popularity": 42,
+        "tempo": 89.231,
+        "key": 7,
+        "energy": 0.0127,
+        "danceability": 0.306
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+        "popularity": 68,
+        "tempo": 58.303,
+        "key": 4,
+        "energy": 0.164,
+        "danceability": 0.136
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Album for the Young, Op. 39: No. 3. Mamma (Maman)",
+        "popularity": 65,
+        "tempo": 87.273,
+        "key": 7,
+        "energy": 0.00869,
+        "danceability": 0.418
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse",
+        "popularity": 59,
+        "tempo": 108.013,
+        "key": 1,
+        "energy": 0.0578,
+        "danceability": 0.252
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14a, Pas de deux. Andante maestoso",
+        "popularity": 57,
+        "tempo": 142.536,
+        "key": 7,
+        "energy": 0.148,
+        "danceability": 0.139
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 13, Waltz of the Flowers",
+        "popularity": 57,
+        "tempo": 47.362,
+        "key": 2,
+        "energy": 0.128,
+        "danceability": 0.149
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante",
+        "popularity": 56,
+        "tempo": 88.858,
+        "key": 2,
+        "energy": 0.031,
+        "danceability": 0.119
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Tchaikovsky: The Nutcracker, Op. 71, Act I: No. 2, March",
+        "popularity": 53,
+        "tempo": 150.319,
+        "key": 4,
+        "energy": 0.116,
+        "danceability": 0.444
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Swan Lake (Suite), Op. 20a, TH. 219: I. Scene - Swan Theme",
+        "popularity": 54,
+        "tempo": 73.59,
+        "key": 4,
+        "energy": 0.204,
+        "danceability": 0.126
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "The Nutcracker, Op. 71: Act II Tableau 3: Variation 2: Dance of the Sugar-Plum Fairy",
+        "popularity": 54,
+        "tempo": 112.378,
+        "key": 4,
+        "energy": 0.0114,
+        "danceability": 0.323
+    },
+    {
+        "artist_name": "Pyotr Ilyich Tchaikovsky",
+        "genre": "classical",
+        "track_name": "Schwanensee, Op. 20: Act II No. 10: Scene",
+        "popularity": 54,
+        "tempo": 87.326,
+        "key": 4,
+        "energy": 0.156,
+        "danceability": 0.16
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
+        "popularity": 66,
+        "tempo": 71.608,
+        "key": 7,
+        "energy": 0.287,
+        "danceability": 0.239
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "The Flower Garden",
+        "popularity": 64,
+        "tempo": 71.277,
+        "key": 0,
+        "energy": 0.181,
+        "danceability": 0.0999
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "One Summer Day",
+        "popularity": 63,
+        "tempo": 78.823,
+        "key": 0,
+        "energy": 0.196,
+        "danceability": 0.41
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "You're in Love",
+        "popularity": 61,
+        "tempo": 67.101,
+        "key": 7,
+        "energy": 0.0344,
+        "danceability": 0.526
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "A Town with an Ocean View",
+        "popularity": 59,
+        "tempo": 106.621,
+        "key": 7,
+        "energy": 0.345,
+        "danceability": 0.524
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "Opening Song - Merry-Go-Round of Life",
+        "popularity": 57,
+        "tempo": 49.034,
+        "key": 2,
+        "energy": 0.0947,
+        "danceability": 0.325
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "Merry-Go-Round of Life - from 'Howl\u2019s Moving Castle'",
+        "popularity": 53,
+        "tempo": 178.219,
+        "key": 2,
+        "energy": 0.198,
+        "danceability": 0.194
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "A Walk in the Skies",
+        "popularity": 55,
+        "tempo": 119.388,
+        "key": 10,
+        "energy": 0.262,
+        "danceability": 0.366
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "The Sixth Station",
+        "popularity": 53,
+        "tempo": 77.936,
+        "key": 4,
+        "energy": 0.0463,
+        "danceability": 0.304
+    },
+    {
+        "artist_name": "Joe Hisaishi",
+        "genre": "classical",
+        "track_name": "Day Of The River",
+        "popularity": 53,
+        "tempo": 79.441,
+        "key": 0,
+        "energy": 0.093,
+        "danceability": 0.329
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)",
+        "popularity": 67,
+        "tempo": 78.809,
+        "key": 7,
+        "energy": 0.258,
+        "danceability": 0.429
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+        "popularity": 63,
+        "tempo": 162.078,
+        "key": 5,
+        "energy": 0.247,
+        "danceability": 0.4
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "Concerto for Strings in G Major, RV 151, \"Alla Rustica\": I. Presto",
+        "popularity": 62,
+        "tempo": 106.65,
+        "key": 2,
+        "energy": 0.291,
+        "danceability": 0.433
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
+        "popularity": 61,
+        "tempo": 157.024,
+        "key": 7,
+        "energy": 0.489,
+        "danceability": 0.34
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "Cello Concerto in E Minor, RV 409: II. Allegro",
+        "popularity": 60,
+        "tempo": 144.615,
+        "key": 4,
+        "energy": 0.229,
+        "danceability": 0.396
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The 4 Seasons: Violin Concerto in E Major, Op. 8, No. 1, RV 269, \"La primavera\" (Spring): I. Allegro",
+        "popularity": 44,
+        "tempo": 99.133,
+        "key": 4,
+        "energy": 0.0694,
+        "danceability": 0.478
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The 4 Seasons: Violin Concerto in F Minor, Op. 8, No. 4, RV 297, \"L'inverno\" (Winter): I. Allegro non molto",
+        "popularity": 44,
+        "tempo": 148.888,
+        "key": 5,
+        "energy": 0.0975,
+        "danceability": 0.446
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
+        "popularity": 57,
+        "tempo": 158.366,
+        "key": 5,
+        "energy": 0.163,
+        "danceability": 0.48
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
+        "popularity": 57,
+        "tempo": 148.692,
+        "key": 7,
+        "energy": 0.569,
+        "danceability": 0.362
+    },
+    {
+        "artist_name": "Antonio Vivaldi",
+        "genre": "classical",
+        "track_name": "The Four Seasons, Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
+        "popularity": 56,
+        "tempo": 83.398,
+        "key": 3,
+        "energy": 0.0649,
+        "danceability": 0.33
+    }
+]
